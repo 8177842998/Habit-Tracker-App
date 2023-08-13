@@ -1,70 +1,27 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with Habit Tracker App
 
 ## Available Scripts
 
 In the project directory, you can run:
-
 ### `npm start`
-
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+### More About App
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Habit Tracker app has been meticulously designed to be user-friendly and highly intuitive. With a focus on simplicity, adding new tasks and monitoring their progress is effortless, ensuring that you save time and energy.
 
-### `npm run build`
+## Home Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Our app's Home Page offers a seamless experience for task management. You can easily create new tasks by providing a title and description. The "Add Task" button is smartly activated only when you've filled in the necessary information, ensuring a smooth workflow.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Furthermore, the Home Page showcases a clear and organized list of all your tasks. Each task is accompanied by a "Delete" button for efficient task management.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Details
 
-### `npm run eject`
+In the Details section of the app, you'll find comprehensive tools for monitoring each task individually. For every day of the week, you have access to a dropdown menu offering three distinct status options: "Completed," "Not Completed," and "None." This feature empowers you to track your task's progress with precision.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Alongside the status dropdowns, the current date and task title are prominently displayed. This provides a quick snapshot of your task's progress for the day.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The Habit Tracker app's user-centric design and thoughtful features make it the ideal companion for anyone seeking to build positive habits. Start your journey towards productivity and personal growth with our user-friendly and efficient Habit Tracker app today.
